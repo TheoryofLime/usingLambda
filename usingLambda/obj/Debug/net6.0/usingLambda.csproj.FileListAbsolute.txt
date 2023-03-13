@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\bin\Debug\net6.0\usingLambda.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\bin\Debug\net6.0\usingLambda.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\bin\Debug\net6.0\usingLambda.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\bin\Debug\net6.0\usingLambda.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\bin\Debug\net6.0\usingLambda.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\obj\Debug\net6.0\usingLambda.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\obj\Debug\net6.0\usingLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\obj\Debug\net6.0\usingLambda.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\obj\Debug\net6.0\usingLambda.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\obj\Debug\net6.0\usingLambda.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\obj\Debug\net6.0\usingLambda.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\obj\Debug\net6.0\refint\usingLambda.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\obj\Debug\net6.0\usingLambda.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\obj\Debug\net6.0\usingLambda.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\usingLambda\usingLambda\obj\Debug\net6.0\ref\usingLambda.dll
